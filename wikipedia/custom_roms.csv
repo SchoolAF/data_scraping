@@ -1,0 +1,40 @@
+Name,Developer,Last updated,Open source?[a],Latest release,Android version,Year started,Supported devices,Notes
+Active,Active,Active,Active,Active,Active,Active,Active,Active
+BharOS,"JandK, IIT Madras",2023,No,Un­known,13 (?),2023,,A fork of the Android Open Source Project
+CalyxOS,Calyx Institute,2025,Yes,6,15,2019[1],"Google Pixel 4a (5G) through 9, Fairphone 4 and 5, SHIFTphone 8, Moto G32 through G84[2]",Privacy focused.
+ColorOS,OPPO,2024,Kernel only,15.0,15,2013,OPPO and OnePlus Android Smartphones and Tablets,
+CopperheadOS,Copperhead Security,2022,Kernel only,13.09.28,13[3],2014,9[4],"Security- and privacy-focused, no OS analytics by default, smartphones with preinstalled OS commercially available."
+crDroid,crDroid team,2025,Yes,11.2,15,2014[5],485[6],Based on LineageOS
+/e/,e Foundation,2025,optional proprietary apps[7],2.9[8],14[8],2017,220[9],"Privacy focused, smartphones with preinstalled OS commercially available. Forked from LineageOS. Formerly called ""Eelo"" and now named MurenaOS."
+emteria.OS,emteria GmbH,2024,Kernel only[10],14.4[11],14,2017,"ARM and x86 platforms, custom industrial hardware platforms, strong focus on the Raspberry Pi family (5, 4B, 3B, 400, CM, etc.)","Platform for building custom Android ROMs (""emteria.OS"") targeted at professional enterprise applications. Supported by a set of remote management and OTA update capabilities (""DeviceHub"")."
+Fire OS,"Amazon.com, Inc.",2021-09-25,Partial[12],8.3.1.9,11,2011,"Amazon Kindle Fire, Fire TV, Fire Phone, Amazon Echo","Centered on content consumption, heavy ties to Amazon's store and content."
+GrapheneOS,GrapheneOS team,2024,Yes,15,15,2019[13],Supported Google Pixel devices[14],Security and privacy focused. Lead developer worked on CopperheadOS until a dispute between the co-founders over licensing caused his departure.[13]
+Xiaomi HyperOS,Xiaomi Corporation,2024,Kernel only,2.0,15,2023,"Xiaomi, Redmi and POCO devices",Succeeding MIUI
+Indus OS,Team Indus OS,?,Kernel only,3.0,7,2015,80[15],
+iodéOS,iodé technologies,2025,optional proprietary apps[16],6.0,15,2020,39[17],"Privacy focused and based on LineageOS, comes with a built-in adblocker."
+Kali NetHunter[18][19],"Kali community member ""BinkyBear"" & Offensive Security",2024-09-11[20][21],Yes,2024.3[19][20][21],5.1.1 - 14[19][22][23][24],2016 (?),48[1][2][3][4],"Open Source Android penetration testing platform. NetHunter supports Wireless 802.11 frame injection, one-click MANA Evil Access Point setups, HID keyboard, as well as BadUSB MITM attacks – built upon Kali Linux distribution and toolsets.[1][2][3]"
+LineageOS,LineageOS community,2024,Yes,22.1,15,2016,175[25],Officially the successor of CyanogenMod.
+MagicOS,Honor,2024,No,8,14,2016,Honor devices,"Also known as Magic UI on pre 7.x version, independently developed by Honor for Honor devices after it split with Huawei."
+OmniROM,OmniROM community,2020,Yes,14.0,14,2013,19[26],
+One UI,"Samsung Electronics Co., Ltd.",2024,Kernel only,6.1.1,14,2019,Samsung Galaxy Smartphones and Tablets,Succeeding Samsung Experience UX and TouchWiz
+OxygenOS,OnePlus,2024,Partial,15.0,15,2015,OnePlus Android Smartphones,Merged with HydrogenOS in 2018.[27] Using ColorOS codebase from 12.0 release.
+Paranoid Android,Paranoid Android Team,2024,Yes,Uvite,14,2012[citation needed],31[28],Based on CAF
+Realme UI,Realme,2024,Kernel only,6.0,15,2020,Realme devices,Based on ColorOS
+Renati OS[29],Myntex Inc.,2025,Kernel only,14.1,14,2022,Supported Google Pixel devices,Security focused
+Replicant,"Denis Carikli, Paul Kocialkowski",2019,Yes,6.0 0003,6,2010,12[30],"Based on LineageOS, removes or replaces proprietary components and anti-features"
+Shift OS l,SHIFT GmbH,"2025 (phone 8, 6mq, 5me, 6m)",Yes,,"14 (phone 8); 13 (6mq); 8.1 (5me, 6m)",2018,4 / 5 (depends on count),
+Shift OS G,SHIFT GmbH,"2025 (phone 8, 6mq); 2023 (5me, 6m)",Google Android,,"14 (phone 8); 13 (6mq); 8.0 (5me, 6m)",2018,4 / 5 (depends on count),
+Discontinued,Discontinued,Discontinued,Discontinued,Discontinued,Discontinued,Discontinued,Discontinued,Discontinued
+DivestOS[31],Tavi (SkewedZeppelin),2024,Yes,20,13,2014,178[32],"Soft fork of LineageOS. Includes Monthly Updates, FOSS Focus, Deblobbing, Security and Privacy focus, and F-Droid"
+AliOS,Alibaba Cloud,2018,Kernel only,2.0,4.4 (?),2011,,A forked but incompatible version of Android[33]
+AOKP,Team Kang,2020,Yes,Pie,9,2011,115[34],Based on LineageOS
+Baidu Yi,"Baidu, Inc.",2015,Kernel only,Un­known,4 (?),2011,Discontinued in March 2015,
+CyanogenMod,"CyanogenMod Open-Source Community, Cyanogen Inc",2016,Yes,14.1 Nightly,7.1.1,2009,571[35],CyanogenMod's official successor is LineageOS
+EMUI,"Huawei Technologies Co., Ltd.",2024,No,15,12,2012,Huawei and Honor devices,Also known as Magic UI in most of the high-end Honor devices and the current Honor devices after it split with Huawei.
+MIUI,Xiaomi Corporation,2023,Kernel only,14.0,14,2010,"Xiaomi, Redmi and POCO devices",Succeeded by Xiaomi HyperOS
+LG UX,LG Electronics,2023,Kernel only,10.0,13,2012,LG Smartphones and Tablets,Succeeding Optimus UI
+LeWa OS,Lewa Technology,?,Kernel only,OS 7 beta,5.1.1,2011,,
+PixelExperience,PixelExperience Team,2024,Yes,14,14,2017,100+[36],"Discontinued in April 2024, Android 14 is a beta"
+Resurrection Remix OS,Resurrection Remix Team,2021,Yes,8.7.3,10,2012,74[37],
+SlimRoms,SlimRoms Team,2018,Yes,7,7.1,2012,~50,
+Smartisan OS,Smartisan,2020,Partial,8.0,10,2012,15,
